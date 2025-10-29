@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=D-Prasanth-Kumar&theme=cobalt&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Prasanth-Kumar&theme=cobalt&hide_border=false" />
+</p>
+
 
 ### 🧠 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
