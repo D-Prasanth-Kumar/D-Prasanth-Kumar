@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=D-Prasanth-Kumar&theme=cobalt&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?username=D-Prasanth-Kumar&theme=cobalt&hide_border=false)<br/>
 
 ### 🧠 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
