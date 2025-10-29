@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img width="48" height="48" src="https://img.icons8.com/material/48/hello.png" alt="hello"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=vue-dark&hide_border=false&include_all_commits=true" />
@@ -6,7 +6,7 @@
 </p>
 
 
-### 🧠 Tech Stack:
+### <img width="30" height="30" src="https://img.icons8.com/officel/30/technology.png" alt="technology"/> Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
