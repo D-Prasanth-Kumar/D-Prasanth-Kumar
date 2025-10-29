@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=vue-dark&hide_border=false&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
 </p>
 
 
