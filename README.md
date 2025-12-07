@@ -3,9 +3,11 @@ I am a learning developer with a strong passion for backend technologies and the
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Prasanth-Kumar&theme=nord_dark" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
+</p>
 
 ### ⚡ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
