@@ -2,7 +2,7 @@
 I am a learning developer with a strong passion for backend technologies and the Java ecosystem. I am currently focused on building my skills and am actively seeking opportunities to contribute to open-source projects.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-Prasanth-Kumar&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Prasanth-Kumar&theme=nord_dark" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />d
 </p>
 
