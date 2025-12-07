@@ -3,7 +3,7 @@ I am a learning developer with a strong passion for backend technologies and the
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Prasanth-Kumar&theme=vue-dark&hide_border=false" />
 </p>
 
 
