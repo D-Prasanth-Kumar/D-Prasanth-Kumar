@@ -1,7 +1,7 @@
 <h1 align="center">Prasanth Kumar</h1>
 
 <h3 align="center">
-  Software Developer · Computer Science Graduate · Building solid systems from fundamentals
+  Software Developer · Computer Science Postgraduate · Building solid systems from fundamentals
 </h3>
 
 <p align="center">
