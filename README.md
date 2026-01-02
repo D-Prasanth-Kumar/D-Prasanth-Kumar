@@ -5,9 +5,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasanthh-kumar/">linkedin</a> •
-  <a href="https://github.com/D-Prasanth-Kumar">github</a> •
-  <a href="mailto:prasanth530001@gmail.com">email</a>
+  <a href="https://www.linkedin.com/in/prasanthh-kumar/" target="_blank">linkedin</a> •
+  <a href="https://github.com/D-Prasanth-Kumar" target="_blank">github</a> •
+  <a href="mailto:prasanth530001@gmail.com" target="_blank">email</a>
 </p>
 
 ---
