@@ -13,12 +13,12 @@
 ---
 
 #### 🔶 tech stack
-- java · python · spring boot · mysql · git · arduino
+- java · python · spring boot · mysql · maven · git 
 
 #### 🔶 contribution-driven learning
-  I contribute to open-source by identifying issues, understanding existing codebases, and delivering clean, review-friendly fixes.
-  I focus on strong fundamentals—how systems work internally—which helps me debug effectively, adapt to large codebases, and write clean, scalable code.
-  I value collaboration, clear discussions, and maintainable solutions.
+- I contribute to open-source by identifying issues, understanding existing codebases, and delivering clean, review-friendly fixes.
+- I focus on strong fundamentals—how systems work internally—which helps me debug effectively, adapt to large codebases, and write clean, scalable code.
+- I value collaboration, clear discussions, and maintainable solutions.
 
 #### 🔶 currently exploring
 - Open-source contributions
