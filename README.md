@@ -15,9 +15,10 @@
 #### 🔶 tech stack
 - java · python · spring boot · mysql · git · arduino
 
-#### 🔶 building from zero
-I focus on **strong fundamentals**—understanding how systems work internally rather than relying on abstractions.
-I enjoy problem-solving, designing clean architectures, and writing readable, maintainable code that scales with complexity.
+#### 🔶 contribution-driven learning
+  I contribute to open-source by identifying issues, understanding existing codebases, and delivering clean, review-friendly fixes.
+  I focus on strong fundamentals—how systems work internally—which helps me debug effectively, adapt to large codebases, and write clean, scalable code.
+  I value collaboration, clear discussions, and maintainable solutions.
 
 #### 🔶 currently exploring
 - Open-source contributions
